@@ -7,11 +7,12 @@ License:	GPL
 Group:		Applications/File
 Source0:	http://dl.sourceforge.net/dump3/%{name}_morpheus_%{version}_src.zip
 # Source0-md5:	97b3fbad6597ea536213db57e8c0eeb0
-URL:		http://dump3.sourceforge.net
+URL:		http://dump3.sourceforge.net/en/index.html
 BuildRequires:	ant
 BuildRequires:	jaxp_parser_impl
 BuildRequires:	jpackage-utils
 BuildRequires:	rpmbuild(macros) >= 1.294
+BuildRequires:	unzip
 BuildArch:	noarch
 BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 
