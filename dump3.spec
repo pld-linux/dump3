@@ -1,5 +1,5 @@
 Summary:	DuMP3 - duplicate & similar file finder
-Summary(pl):	DuMP3 - program do znajdywania powtórzonych i podobnych plików
+Summary(pl.UTF-8):   DuMP3 - program do znajdywania powtÃ³rzonych i podobnych plikÃ³w
 Name:		dump3
 Version:	0.2.9
 Release:	0.1
@@ -28,18 +28,18 @@ DuMP3 can find files that are not exact duplicates:
 - plugin fingerprint classes can be written for any file where inexact
   matching is needed (fonts, videos, etc)
 
-%description -l pl
-DuMP3 potrafi znale¼æ pliki nie bêd±ce dok³adnymi duplikatami:
-- binarne pliki s± porównywane za pomoc± skrótu SHA1 (konfigurowalne
-  do dowolnego skrótu MD)
-- pliki tekstowe zmienione przez dodanie lub usuniêcie (dostêpne dwa
-  algorytmy "odcisków palca")
-- obrazki w ró¿nych formatach, rozmiarach i/lub orientacjach (BMP,
+%description -l pl.UTF-8
+DuMP3 potrafi znaleÅºÄ‡ pliki nie bÄ™dÄ…ce dokÅ‚adnymi duplikatami:
+- binarne pliki sÄ… porÃ³wnywane za pomocÄ… skrÃ³tu SHA1 (konfigurowalne
+  do dowolnego skrÃ³tu MD)
+- pliki tekstowe zmienione przez dodanie lub usuniÄ™cie (dostÄ™pne dwa
+  algorytmy "odciskÃ³w palca")
+- obrazki w rÃ³Å¼nych formatach, rozmiarach i/lub orientacjach (BMP,
   GIF, JPEG, JPEG2000, PNG, PNM, RAW, TIFF)
-- pliki d¼wiêkowe zapisane z ró¿n± prêdko¶ci± strumienia lub w ró¿nych
+- pliki dÅºwiÄ™kowe zapisane z rÃ³Å¼nÄ… prÄ™dkoÅ›ciÄ… strumienia lub w rÃ³Å¼nych
   formatach (AU, AIF, WAV, MP3, OGG)
-- mo¿na dopisywaæ wtyczki "odcisków palców" dla dowolnych formatów
-  plików wymagaj±cych niedok³adnego porównywania (fontów, filmów itp.)
+- moÅ¼na dopisywaÄ‡ wtyczki "odciskÃ³w palcÃ³w" dla dowolnych formatÃ³w
+  plikÃ³w wymagajÄ…cych niedokÅ‚adnego porÃ³wnywania (fontÃ³w, filmÃ³w itp.)
 
 %prep
 %setup -q -c
