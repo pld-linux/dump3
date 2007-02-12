@@ -1,5 +1,5 @@
 Summary:	DuMP3 - duplicate & similar file finder
-Summary(pl.UTF-8):   DuMP3 - program do znajdywania powtórzonych i podobnych plików
+Summary(pl.UTF-8):	DuMP3 - program do znajdywania powtórzonych i podobnych plików
 Name:		dump3
 Version:	0.2.9
 Release:	0.1
